@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.wiwj.amadeus"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "jhipsterapp",
+    "packageName": "com.wiwj.amadeus",
+    "packageFolder": "com/wiwj/amadeus",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "Njc4MjU1NDU2ZWMwYTdkNGJiNTk4MTgzNjE0ZjYwODA4ZjI2MzZjOTdlZWE0NDEwMzVhYmUwODYwMWJkN2VkYzg3Mzc4OGZhMDY4YmM1YmY5MGRmZDZhOWRmNGMyMGM5NWVjNDcyYjgxN2IxYzQ0OGEwMWQ3YTBhMTk1ZTc4Mjk=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1598518684057,
+    "testFrameworks": ["gatling", "cucumber", "protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
